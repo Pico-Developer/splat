@@ -1,0 +1,6 @@
+# <https://clang.llvm.org/docs/ClangFormatStyleOptions.html>
+---
+BasedOnStyle: Google
+
+# Lots of comments have long lines and custom math formatting, so ignore.
+ReflowComments: false
